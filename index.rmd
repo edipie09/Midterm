@@ -3,13 +3,13 @@ title: "5:30 Midterm"
 output: html_document
 ---
 
-# Ella DiPietro
+## Ella DiPietro
 
-# October 15, 2017
+## October 15, 2017
 
 Here is some arithmatic: 
 
-```{r}
+```{r, echo=TRUE}
 x<-5
 y<-6
 x^2+y^2
